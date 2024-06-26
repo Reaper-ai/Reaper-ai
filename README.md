@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Reaper-ai
-- 👀 I’m interested in AI, ML, Data-science, Web-Dev
+- 👀 I’m interested in AI-ML, Data-science, Web-Dev
 - 🌱 I’m currently learning DSA
 
 <!---
