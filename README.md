@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Reaper-ai
+- 👋 Hi, I’m Gaurav 
 - 👀 I’m interested in AI-ML, Data-science, Web-Dev
 - 🌱 I’m currently learning DSA
 
