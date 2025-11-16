@@ -4,7 +4,7 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Reaper-ai&show_icons=true&theme=radical)](https://github.com/anuragkr/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reaper-ai&layout=compact&theme=radical)](https://github.com/anuragkr/github-readme-stats)
 
-[![My LeetCode Stats](https://leetcode-stats-card.vercel.app/api?username=_the_Reaper&theme=dark)](https://leetcode.com/_the_Reaper)
+[![My LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=_the_Reaper&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 [![My Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=_reaper_AI_&theme=dark&show_contribution=true)](https://codeforces.com/profile/_reaper_AI_)
 
 
