@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Gaurav 
 
-<img src="httpsli.com/link-to-your-custom-banner.png" alt="My Profile Banner"/>
 
 ---
 [![My LeetCode Stats](https://leetcode-stats.vercel.app/api?username=_the_Reaper&theme=dark)](https://github.com/JeremyTsaii/leetcode-stats)
