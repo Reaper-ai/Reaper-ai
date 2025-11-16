@@ -3,7 +3,7 @@
 
 
 ---
-[![My LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=_the_Reaper&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![My LeetCode Stats](https://leetcode-stats.vercel.app/api?username=_the_Reaper&theme=dark)](https://github.com/JeremyTsaii/leetcode-stats)
 [![My Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=_reaper_AI_&theme=dark&show_contribution=true)](https://codeforces.com/profile/_reaper_AI_)
 
 ### Langauges and frameworks
