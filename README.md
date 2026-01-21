@@ -5,7 +5,6 @@
 
 
 ---
-![Leetcode Stats](https://leetcard.jacoblin.cool/_the_Reaper?theme=dark)
 [![My Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=_reaper_AI_&theme=dark&show_contribution=true)](https://codeforces.com/profile/_reaper_AI_)
 
 
